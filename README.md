@@ -7,6 +7,7 @@ This repository contains the raw sequencing data (FASTQ format) associated with 
 
 Sampling Sites and Codes:
 
+```
 JIM    = Jimena          (OL#2)
 KAT    = Katycocha       (OL#1)
 BAL    = Balata          (NFP#4)
@@ -17,13 +18,17 @@ RON    = Ronsoco         (FP#2)
 INU    = Inundación      (FP#4)
 SHA    = Shansho         (FP#5)
 NCHA   = Nueva Charapa   (FP#3)
-MEG    = Mega           (NFP#2)
+MEG    = Mega            (NFP#2)
 BLA    = Laboratory Control
 CtrlAmb = Filtration Control
+```
+
+
 
 FASTQ File Assignments:
 
 12S Marker:
+```
 JIM_12S       e01
 KAT_12S       e02
 BAL_12S       e03
@@ -37,8 +42,9 @@ NCHA_12S      e14
 MEG_12S       e15
 BLA_12S       e16
 CtrlAmb_12S   e17
-
+```
 COI Marker:
+```
 JIM_COI       e49
 KAT_COI       e50
 BAL_COI       e51
@@ -52,3 +58,4 @@ NCHA_COI      e62
 MEG_COI       e63
 BLA_COI       e64
 CtrlAmb_COI   e65
+```
